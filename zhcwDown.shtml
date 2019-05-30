@@ -1,16 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <head>
-        <meta charset="UTF-8">
-            <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                <meta name="viewport" content="width=device-width,  initial-scale=1">
-                    <script type="text/javascript" src="http://images.zhcw.com/gt/m/js/jq.mobi.min.js?v=2018081010"></script>
-                    <script type="text/javascript" src="http://images.zhcw.com/gt/m/js/public.js?v=2018081010"></script>
-        <title>中彩网企业包APP下载</title>
+        <title>testapp 安装 </title>
     </head>
     <body>
-        <a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/xiayuqingfeng/httpsDownIap/master/ZhongCaiWebApp5200.plist"> <img src="https://github.com/xiayuqingfeng/httpsDownIap/blob/master/Icon.png?raw=true" ></a>
-        <h1>IOS下载</h1>
+        <center>
+            <h2> 请使用苹果的safari浏览器打开本页面，然后点击 安装  </h2>
+            <font size="10">
+                <h1><a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/xiayuqingfeng/httpsDownIap/master/ZhongCaiWebApp5200.plist"> 安装</a>  </h1>
+            </font>
+        </center>
     </body>
 </html>
-
