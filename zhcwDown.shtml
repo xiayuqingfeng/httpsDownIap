@@ -4,7 +4,7 @@
         <title>中彩网企业包APP下载</title>
     </head>
     <body>
-        <a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/xiayuqingfeng/httpsDownIap/master/ZhongCaiWebApp5200.plist"> <img src="http://192.168.91.11/ios/iconfive.jpg" ></a>
+        <a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/xiayuqingfeng/httpsDownIap/master/ZhongCaiWebApp5200.plist"> <img src="https://github.com/xiayuqingfeng/httpsDownIap/blob/master/Icon.png?raw=true" ></a>
         <h1>IOS下载</h1>
     </body>
 </html>
